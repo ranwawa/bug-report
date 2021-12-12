@@ -156,3 +156,7 @@ render一个*-o.vue组件
       at Object.<anonymous> (src/components/driver-index/cancel-order-judge-o.vue:894:3)
       at Object.<anonymous> (src/components/driver-index/__tests__/cancel-order-judge-o.teset.js:1:1)
 ```
+
+#### 参考
+
+- https://ayase.moe/2016/10/02/es6-circular-import/
